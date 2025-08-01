@@ -28,4 +28,6 @@ public class StudentController {
     public String insert(@RequestBody  Student student){
         return    service.insertStudent(student);
     }
+
+    //adding test commit
 }

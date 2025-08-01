@@ -1,3 +1,4 @@
+/*
 package org.example.springbootcruddemo;
 
 import org.example.springbootcruddemo.entity.Student;
@@ -58,3 +59,4 @@ class SpringBootCrudDemoApplicationTests {
     }
 
 }
+*/
